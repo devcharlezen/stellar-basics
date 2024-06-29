@@ -72,6 +72,15 @@ Stellar transactions incur a nominal fee to prevent network spam and ensure effi
 - [Stellar Laboratory](https://laboratory.stellar.org/): Interactive tool for funding and interacting with the Stellar network.
 - [Stellar Expert](https://stellar.expert/): Platform for finding transactions, exploring wallets, and monitoring Stellar network activity.
 
+## Running the Program
+
+To run the program:
+
+1. Ensure you have Node.js installed on your machine.
+2. Clone the repository and navigate to the project directory.
+3. Run `npm install` to install dependencies.
+4. Execute `node index.js` to start the program.
+
 ## Conclusion
 
 Stellar's innovative approach to blockchain technology makes it a versatile platform for various financial applications, including cross-border payments, decentralized exchanges, and asset tokenization. This README provides an overview of Stellar's core concepts, advantages, and why it stands out in the blockchain ecosystem.
